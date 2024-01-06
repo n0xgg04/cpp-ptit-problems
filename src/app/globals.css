@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+td{
+  border: white 1px solid !important;
+}
+
+p{
+  color: white!important;
+}
