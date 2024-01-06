@@ -15,7 +15,7 @@ export default function Page(props: Props) {
                                 <tr>
                                     <th>#</th>
                                     <th>Code</th>
-                                    <th>Problem's name</th>
+                                    <th>Problem&apos;s name</th>
                                     <th>Actions</th>
                                 </tr>
                             </thead>
