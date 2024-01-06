@@ -30,6 +30,6 @@ td{
   border: white 1px solid !important;
 }
 
-p{
+p,span{
   color: white!important;
 }
